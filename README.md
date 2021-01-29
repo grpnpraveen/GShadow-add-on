@@ -6,10 +6,13 @@ The UI of the add-on looks like:
 
 <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/UI.png"/>
 
-1.Adding shadows to only strokes of the grease pencil for both Eevee and Cycles.
+1.Adding shadows to only strokes of the grease pencil for both 
+
+a.Eevee b. Cycles.
 
 <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/eevee.png" width=300/> <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/cycles.png" width=300/> <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/suz_eevee.png" width=300/>
 
 2.Adding shadows to the entire object.
+
 a.Viewport    b.Rendered
 <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/outline_viewport.png"/>
