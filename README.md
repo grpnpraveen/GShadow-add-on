@@ -8,7 +8,7 @@ The UI of the add-on looks like:
 
 1.Adding shadows to only strokes of the grease pencil for both 
 
-a.Eevee                         b. Cycles.
+a.Eevee                        b. Cycles.
 
 <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/eevee.png" width=300/> <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/cycles.png" width=300/> <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/suz_eevee.png" width=300/>
 
