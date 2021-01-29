@@ -16,4 +16,4 @@ a.Eevee                         b. Cycles.
 
 a.Viewport                      b.Rendered
 
-<img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/outline_viewport.png" width=300/> <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/outline.png" width=300/>
+<img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/outline_viewport.png" width=400/> <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/outline.png" width=300/>
