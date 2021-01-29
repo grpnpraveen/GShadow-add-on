@@ -12,7 +12,7 @@ The UI of the add-on looks like this:
 
 <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/eevee.png" width=300/> <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/cycles.png" width=300/> <img src="https://github.com/grpnpraveen/GShadow-add-on/blob/main/Img/suz_eevee.png" width=300/>
 
-2.Adding shadows to the entire object.
+2.Adding shadows to the entire object *REMEMBER select only the outline of the grease pencil for this*.
 
 *a.Viewport                      b.Rendered*
 
