@@ -1,4 +1,4 @@
-# GShadow-add-on
+# GShadow-add-on [PBR: https://github.com/grpnpraveen/PBR_Perfect-Add-on]
 An addon for the blender to add shadows to the grease pencil primitives or drawing or any grease pencil objects.
 
 *In Eevee, shadows will appear in the viewport but don't worry if you don't see shadows in the viewport because in the final render you will get them*
